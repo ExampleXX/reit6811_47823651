@@ -1,0 +1,51 @@
+index,name,type_combination,type1,type2,ability1,ability2,hidden_ability,hp,attack,defense,sp_atk,sp_def,speed,total_stats,legendary,mythical,generation,Smogon_VGC_Usage_2022,Smogon_VGC_Usage_2023,Smogon_VGC_Usage_2024,Worlds_VGC_Usage_2022,Worlds_VGC_Usage_2023,Worlds_VGC_Usage_2024
+987,flutter-mane,fairy-ghost,ghost,fairy,protosynthesis,No_ability,None ,55,55,55,135,135,135,570,False,False,generation-ix,NoUsage,48.26432,59.4371,NoUsage,51.19,NoUsage
+727,incineroar,dark-fire,fire,dark,blaze,No_ability,intimidate,95,115,90,80,90,60,530,False,False,generation-vii,58.57608,NoUsage,36.81468,73.41,NoUsage,32.4
+1017,ogerpon-wellspring,grass-water,grass,water,water-absorb,No_ability,None ,80,120,84,60,96,110,550,True,False,generation-ix,NoUsage,18.28429,35.07103,NoUsage,31.03,NoUsage
+641,tornadus-incarnate,flying,flying,No_type,prankster,No_ability,defiant,79,115,70,125,80,111,580,True,False,generation-v,16.68113,32.57582,26.15361,11.01,27.85,NoUsage
+1021,raging-bolt,dragon-electric,electric,dragon,protosynthesis,No_ability,None ,125,73,91,137,89,75,590,False,False,generation-ix,NoUsage,NoUsage,26.14914,NoUsage,NoUsage,NoUsage
+892,urshifu-rapid,fighting-water,fighting,water,unseen-fist,No_ability,None ,100,130,100,63,60,97,550,True,False,generation-viii,5.86298,48.97556,25.61987,3.28,28.86,NoUsage
+892,urshifu-single,dark-fighting,fighting,dark,unseen-fist,No_ability,None ,100,130,100,63,60,97,550,True,False,generation-viii,7.57563,9.56383,24.98031,NoUsage,9.76,NoUsage
+1002,chien-pao,dark-ice,dark,ice,sword-of-ruin,No_ability,None ,80,120,80,90,65,135,570,True,False,generation-ix,NoUsage,31.75851,23.64677,NoUsage,23.51,NoUsage
+812,rillaboom,grass,grass,No_type,overgrow,No_ability,grassy-surge,100,125,90,60,70,85,530,False,False,generation-viii,19.39555,22.8907,22.31496,27.5,27.59,29.72
+898,calyrex-ice-rider,ice-psychic,psychic,ice,as-one-glastrier,No_ability,None ,100,165,150,85,130,50,680,True,False,generation-viii,12.16652,NoUsage,20.95435,14.5,NoUsage,NoUsage
+898,calyrex-shadow-rider,ghost-psychic,psychic,ghost,as-one-spectrier,No_ability,None ,100,85,80,165,100,150,680,True,False,generation-viii,16.04262,NoUsage,20.12318,16.49,NoUsage,NoUsage
+591,amoonguss,grass-poison,grass,poison,effect-spore,No_ability,regenerator,114,85,70,85,80,30,464,False,False,generation-v,17.61546,27.2443,19.88122,20.14,15.71,26.58
+645,landorus-incarnate,flying-ground,ground,flying,sand-force,No_ability,sheer-force,89,125,90,115,80,101,600,True,False,generation-v,0.21915,3.71531,17.08534,0.27,0.86,NoUsage
+981,farigiraf,normal-psychic,normal,psychic,cud-chew,armor-tail,sap-sipper,120,90,70,110,70,60,520,False,False,generation-ix,NoUsage,5.38049,16.52409,NoUsage,10.34,2.99
+901,ursaluna-bloodmoon,ground-normal,ground,normal,minds-eye,No_ability,None ,113,70,120,135,65,52,555,False,False,generation-viii,NoUsage,9.73372,13.66696,NoUsage,7.13,12.69
+244,entei,fire,fire,No_type,pressure,No_ability,inner-focus,115,115,85,90,75,100,580,True,False,generation-ii,1.32902,NoUsage,12.61883,0.58,NoUsage,NoUsage
+876,indeedee-female,normal-psychic,psychic,normal,own-tempo,synchronize,psychic-surge,70,55,65,95,105,85,475,False,False,generation-viii,8.37202,16.45373,12.08637,7.3,7.35,6.55
+423,gastrodon-west,ground-water,water,ground,sticky-hold,storm-drain,sand-force,111,83,68,92,82,39,475,False,False,generation-iv,9.82964,9.17612,11.50757,5.52,0.56,0.78
+1024,terapagos,normal,normal,No_type,tera-shift,No_ability,None ,90,65,85,65,85,60,450,True,False,generation-ix,NoUsage,NoUsage,11.39173,NoUsage,NoUsage,NoUsage
+1004,chi-yu,dark-fire,dark,fire,beads-of-ruin,No_ability,None ,55,80,80,135,120,100,570,True,False,generation-ix,NoUsage,37.43244,11.29759,NoUsage,13.45,NoUsage
+149,dragonite,dragon-flying,dragon,flying,inner-focus,No_ability,multiscale,91,134,95,100,100,80,600,False,False,generation-i,0.24606,15.01609,10.52673,NoUsage,11.19,21.84
+970,glimmora,poison-rock,rock,poison,toxic-debris,No_ability,corrosion,83,55,90,130,81,86,525,False,False,generation-ix,NoUsage,4.9265,10.145,NoUsage,3.73,1.62
+977,dondozo,water,water,No_type,unaware,oblivious,water-veil,150,100,115,65,65,35,530,False,False,generation-ix,NoUsage,20.03772,9.41108,NoUsage,6.66,8.1
+1017,ogerpon-hearthflame,fire-grass,grass,fire,mold-breaker,No_ability,None ,80,120,84,60,96,110,550,True,False,generation-ix,NoUsage,0.00143,9.1193,NoUsage,20.54,NoUsage
+382,kyogre,water,water,No_type,drizzle,No_ability,None ,100,100,90,150,140,90,670,True,False,generation-iii,49.39676,NoUsage,9.08174,36.87,NoUsage,NoUsage
+978,tatsugiri-curly,dragon-water,dragon,water,commander,No_ability,storm-drain,68,50,60,120,95,82,475,False,False,generation-ix,NoUsage,20.08095,8.95051,NoUsage,5.04,3.5
+383,groudon,ground,ground,No_type,drought,No_ability,None ,100,150,140,100,90,90,670,True,False,generation-iii,15.20876,NoUsage,8.31136,26.67,NoUsage,NoUsage
+1000,gholdengo,ghost-steel,steel,ghost,good-as-gold,No_ability,None ,87,60,95,133,91,84,550,False,False,generation-ix,NoUsage,27.27998,8.18848,NoUsage,14.83,31.41
+1023,iron-crown,psychic-steel,steel,psychic,quark-drive,No_ability,None ,90,72,100,122,108,98,590,False,False,generation-ix,NoUsage,NoUsage,7.84895,NoUsage,NoUsage,NoUsage
+1018,archaludon,dragon-steel,steel,dragon,stamina,sturdy,stalwart,90,105,130,125,65,85,600,False,False,generation-ix,NoUsage,NoUsage,7.53966,NoUsage,NoUsage,22.7
+992,iron-hands,electric-fighting,fighting,electric,quark-drive,No_ability,None ,154,140,108,50,68,50,570,False,False,generation-ix,NoUsage,40.0502,7.43518,NoUsage,51.32,NoUsage
+1008,miraidon,dragon-electric,electric,dragon,hadron-engine,No_ability,None ,100,85,100,135,115,135,670,True,False,generation-ix,NoUsage,NoUsage,6.69576,NoUsage,NoUsage,NoUsage
+983,kingambit,dark-steel,dark,steel,defiant,supreme-overlord,pressure,100,135,120,60,85,50,550,False,False,generation-ix,NoUsage,16.70045,6.41698,NoUsage,9.48,26.78
+1020,gouging-fire,dragon-fire,fire,dragon,protosynthesis,No_ability,None ,105,115,121,65,93,91,590,False,False,generation-ix,NoUsage,NoUsage,5.59335,NoUsage,NoUsage,NoUsage
+324,torkoal,fire,fire,No_type,white-smoke,drought,shell-armor,70,85,140,85,70,20,470,False,False,generation-iii,3.17307,14.95923,5.22535,2.11,5.24,7.84
+1007,koraidon,dragon-fighting,fighting,dragon,orichalcum-pulse,No_ability,None ,100,135,115,85,100,135,670,True,False,generation-ix,NoUsage,NoUsage,5.16294,NoUsage,NoUsage,NoUsage
+547,whimsicott,fairy-grass,grass,fairy,prankster,infiltrator,chlorophyll,60,67,85,77,75,116,480,False,False,generation-v,11.25129,NoUsage,4.8996,15.89,NoUsage,7.72
+645,landorus-therian,flying-ground,ground,flying,intimidate,No_ability,None ,89,145,90,105,80,91,600,True,False,generation-v,17.76942,26.52714,4.23346,15.06,45.8,NoUsage
+488,cresselia,psychic,psychic,No_type,levitate,No_ability,None ,120,70,110,75,120,85,580,True,False,generation-iv,0.06466,23.75665,4.16931,NoUsage,7.89,NoUsage
+889,zamazenta-crowned,fighting-steel,fighting,steel,dauntless-shield,No_ability,None ,92,120,140,80,140,128,700,True,False,generation-viii,1.03373,NoUsage,4.12203,0.19,NoUsage,NoUsage
+279,pelipper,flying-water,water,flying,keen-eye,drizzle,rain-dish,60,50,100,95,70,65,440,False,False,generation-iii,0.12019,5.51125,3.96501,NoUsage,1.06,19.51
+792,lunala,ghost-psychic,psychic,ghost,shadow-shield,No_ability,None ,137,113,89,137,107,97,680,True,False,generation-vii,1.90593,NoUsage,3.64915,8.42,NoUsage,NoUsage
+901,ursaluna,ground-normal,ground,normal,guts,bulletproof,unnerve,130,140,105,45,80,50,550,False,False,generation-viii,NoUsage,18.843,3.61115,NoUsage,5.3,13.52
+376,metagross,psychic-steel,steel,psychic,clear-body,No_ability,light-metal,80,135,130,95,90,70,600,False,False,generation-iii,1.30383,NoUsage,3.47905,0.17,NoUsage,0.04
+888,zacian-crowned,fairy-steel,fairy,steel,intrepid-sword,No_ability,None ,92,150,115,80,115,148,700,True,False,generation-viii,60.39172,NoUsage,3.39879,53.65,NoUsage,NoUsage
+1017,ogerpon-teal,grass,grass,No_type,defiant,No_ability,None ,80,120,84,60,96,110,550,True,False,generation-ix,NoUsage,4.49847,3.3219,NoUsage,1.27,NoUsage
+59,arcanine-hisui,fire-rock,fire,rock,intimidate,flash-fire,rock-head,95,115,80,95,80,90,555,False,False,generation-i,NoUsage,3.89183,3.26922,NoUsage,15.75,1.3
+1009,walking-wake,dragon-water,water,dragon,protosynthesis,No_ability,None ,99,83,91,125,83,109,590,False,False,generation-ix,NoUsage,NoUsage,3.13596,NoUsage,NoUsage,NoUsage
+1005,roaring-moon,dark-dragon,dragon,dark,protosynthesis,No_ability,None ,105,139,71,55,101,119,590,False,False,generation-ix,NoUsage,19.51311,3.09517,NoUsage,11.98,NoUsage
+1003,ting-lu,dark-ground,dark,ground,vessel-of-ruin,No_ability,None ,155,110,125,55,80,45,570,True,False,generation-ix,NoUsage,34.01782,2.70101,NoUsage,0.13,NoUsage

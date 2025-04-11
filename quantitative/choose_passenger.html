@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Choose a Passenger</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header class="top-nav">
+            <div class="header-left">
+                <a href="javascript:void(0)" class="back-button" onclick="goBack()"><i class="fa-solid fa-arrow-left"></i></a>
+            </div>
+            <div class="header-title">
+                <h2>Choose A Passenger</h2>
+            </div>
+            <div class="menu">
+                <!-- Hamburger menu icon --> 
+                <a href="javascript:void(0);" class="menu-button"><i class="fa-solid fa-bars"></i></a>
+            </div>
+        </header>
+
+        <!-- Hidden Navigation Menu -->
+        <div class="nav-menu">
+            <a href="index.html">Home</a>
+            <a href="create_trip.html">Create a Trip</a>
+            <a href="planned_trip.html">Planned Trips</a>
+            <a href="user_profile.html">User Profile</a>
+        </div>
+
+        <main>
+            <section id="passenger-list" class="trip-section passenger-list">
+                <!-- Passenger card -->
+                <div class="passenger-card">
+                    <div class="trip-info passenger-trip-info">
+                        <strong><span class="passenger-date">Date</span> at <span class="passenger-time">Time</span></strong>
+                    </div>
+                    <div class="trip-details passenger-details">
+                        <p class="passenger-name">Name</p>
+                        <p class="passenger-gender">Gender</p>
+                        <p class="passenger-age">Age</p>
+                        <p class="passenger-phone">Phone</p>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+    <script src="js/script.js" type="module"></script>
+</body>
+</html>
